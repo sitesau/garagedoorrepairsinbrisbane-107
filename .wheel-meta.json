@@ -1,0 +1,22 @@
+{
+  "wheel_id": 713,
+  "structure": "umbrella",
+  "slug": "garagedoorrepairsinbrisbane-107",
+  "project": "garage-door-repairs-brisbane-common-mistakes-37259c0d17ce8c042b",
+  "parent_t1_ref": "garagedoorrepairsinbrisbane-153",
+  "node_role": "feeder",
+  "money_target": "garagedoorrepairsinbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane common mistakes",
+  "intended_url": "http://garage-door-repairs-brisbane-common-mistakes-37259c0d17ce8c042b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "7dbb1e486a2cf98d",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/garagedoorrepairsinbrisbane-153/",
+      "anchor": "Garage Door Repairs Brisbane Suburb Guide: Suburb Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
